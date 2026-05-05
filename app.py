@@ -116,7 +116,7 @@ class KDTree:
 
 # ========================== Global variables (as App Context) ==========================
 # Use relative path for the Flask app environment
-DATA_CSV = r"C:\Users\D Praneeth\Downloads\SEM-3\PYTHON\Project\HM_TRIAL_4\cleaned_dataset.csv"
+DATA_CSV = "data/cleaned_dataset.csv"
 app = Flask(__name__)
 app.secret_key = 'super_secret_key' # Needed for flash messages
 
