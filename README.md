@@ -31,13 +31,13 @@ Unlike traditional filtering systems, this project leverages:
 ## 🖥️ Demo Interface
 
 ### 🔍 Search & Autocomplete
-![Search](assets/search.png)
+![Search](assests/search.png)
 
 ### 📊 Recommendations + Filters
-![Results](assets/results.png)
+![Results](assests/results.png)
 
 ### 📄 Pagination System
-![Pagination](assets/pagination.png)
+![Pagination](assests/pagination.png)
 
 ---
 
