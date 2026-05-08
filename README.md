@@ -96,7 +96,7 @@ python app.py
 
 Traditional search is **O(n)**, but KD-Tree reduces it to:
 
-👉 **O(log n)** (average case)
+👉 **O(log n)** (avg case)
 
 This makes the system scalable for large datasets.
 
